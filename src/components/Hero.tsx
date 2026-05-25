@@ -1,7 +1,6 @@
 import BannerImage from "../assets/Banner Image.png";
 import CheckSign from "../assets/check-sign.png";
 import Vector1 from "../assets/Vector1.png";
-import Vector2 from "../assets/Vector2.png";
 import UnderlineVector from "../assets/underline-Vector.png";
 
 const features = [
