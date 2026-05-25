@@ -1,4 +1,3 @@
-import React from "react";
 import Section2Image from "../assets/Section2-Image.png";
 import RegulatoryClarity from "../assets/Regulatory Clarity.png";
 import HassleFreeFiling from "../assets/Hassle-Free.png";

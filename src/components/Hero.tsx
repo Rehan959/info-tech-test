@@ -1,4 +1,3 @@
-import React from "react";
 import BannerImage from "../assets/Banner Image.png";
 import CheckSign from "../assets/check-sign.png";
 import Vector1 from "../assets/Vector1.png";
